@@ -25,11 +25,6 @@ Data Cleaning & Transformation	Python (Pandas, NumPy)	Cleaned nulls, standardize
 Data Visualization	Power BI, Matplotlib, Seaborn	Created dashboards and visuals to represent key findings.
 Reporting	Power BI / PDF	Summarized trends, insights, and recommendations.
 
-├── Job Market Analysis.ipynb     # Jupyter Notebook with full Python analysis
-├── ai_job_dataset1.csv           # Raw dataset used in analysis
-├── job.sql                       # SQL script for data extraction & transformation
-├── job_market analysis.pdf       # Final project report with visuals & insights
-
 
 🔍 Key Insights
 
