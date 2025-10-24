@@ -1,12 +1,12 @@
 # Job-Market-Analysis
 End-to-End Data Analytics Project using SQL, Python (Pandas), and Power BI
-🧠 Project Overview
+-->Project Overview
 
 The Job Market Analysis project explores hiring trends, in-demand skills, top job roles, salary patterns, and location-based opportunities in the modern job market.
 
 This project demonstrates the complete data analytics workflow — from data extraction using SQL, cleaning and transformation using Python (Pandas), to visualization and reporting using Power BI and Seaborn.
 
-🎯 Objectives
+-->Objectives
 
 Extract job market data (job roles, skills, experience levels, salaries, and locations) using SQL.
 
@@ -18,7 +18,7 @@ Visualize job trends, skill demand, and salary distributions.
 
 Build a dashboard/report that helps job-seekers and recruiters make informed decisions.
 
-🧰 Tools & Technologies
+--> Tools & Technologies
 Phase	Tools Used	Description
 Data Extraction	SQL	Extracted and joined job-related data from structured tables.
 Data Cleaning & Transformation	Python (Pandas, NumPy)	Cleaned nulls, standardized column formats, derived insights-ready data.
@@ -26,7 +26,7 @@ Data Visualization	Power BI, Matplotlib, Seaborn	Created dashboards and visuals 
 Reporting	Power BI / PDF	Summarized trends, insights, and recommendations.
 
 
-🔍 Key Insights
+--> Key Insights
 
 (Replace the placeholders below with your actual results once finalized)
 
@@ -40,42 +40,42 @@ Reporting	Power BI / PDF	Summarized trends, insights, and recommendations.
 
 📈 Emerging Trend: Companies are increasingly preferring multi-skilled analysts with knowledge in Python and visualization tools.
 
-📊 Dashboard Preview
+-->  Dashboard Preview
 
 
 
  
+-->  Process Workflow
 
-🧩 Process Workflow
-
-1️⃣ Data Extraction:
+1) Data Extraction:
 
 Imported job dataset using SQL queries (job.sql).
 
 Applied joins, filters, and groupings to prepare structured data.
 
-2️⃣ Data Cleaning & Transformation:
+2) Data Cleaning & Transformation:
 
 Used Pandas to handle missing data, remove duplicates, and normalize values.
 
 Created new columns (e.g., skill category, experience range).
 
-3️⃣ Data Visualization & Reporting:
+3) Data Visualization & Reporting:
 
 Used Seaborn and Matplotlib for trend analysis.
 
 Built interactive Power BI dashboards highlighting job demand, salary range, and city-wise hiring trends.
 
-📈 Sample Visuals
+--> Sample Visuals
 
-(Include 1–2 example charts from your notebook if available)
+
+
 
 # Example: Job demand by skill
 sns.barplot(x='Skill', y='Job_Count', data=df_top_skills)
 plt.title('Top In-Demand Skills in the Market')
 plt.show()
 
-💬 Insights & Recommendations
+--> Insights & Recommendations
 
 Job seekers should focus on learning technical + analytical tools (Python, SQL, Power BI).
 
@@ -83,7 +83,7 @@ Employers should analyze regional hiring patterns to optimize recruitment strate
 
 Data analytics skills are showing steady growth in demand across all industries.
 
-🔮 Future Enhancements
+--> Future Enhancements
 
 Integrate live job market data using APIs or web scraping.
 
@@ -93,7 +93,7 @@ Add interactive web dashboard using Streamlit or Dash.
 
 Perform sentiment analysis on job descriptions for deeper insights.
 
-📘 Conclusion
+*** Conclusion
 
 This project showcases how data analytics can reveal actionable insights about the job market.
 It combines technical proficiency (SQL, Python, Power BI) with business understanding — reflecting the core skills of a Data Analyst.
