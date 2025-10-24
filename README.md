@@ -24,14 +24,12 @@ Data Extraction	SQL	Extracted and joined job-related data from structured tables
 Data Cleaning & Transformation	Python (Pandas, NumPy)	Cleaned nulls, standardized column formats, derived insights-ready data.
 Data Visualization	Power BI, Matplotlib, Seaborn	Created dashboards and visuals to represent key findings.
 Reporting	Power BI / PDF	Summarized trends, insights, and recommendations.
-📂 Repository Structure
-📁 Job-Market-Analysis/
-│
+
 ├── Job Market Analysis.ipynb     # Jupyter Notebook with full Python analysis
 ├── ai_job_dataset1.csv           # Raw dataset used in analysis
 ├── job.sql                       # SQL script for data extraction & transformation
 ├── job_market analysis.pdf       # Final project report with visuals & insights
-└── README.md                     # Project documentation (this file)
+
 
 🔍 Key Insights
 
@@ -49,7 +47,9 @@ Reporting	Power BI / PDF	Summarized trends, insights, and recommendations.
 
 📊 Dashboard Preview
 
-(If you have a Power BI dashboard or report, upload a screenshot or link it here.)
+
+
+ 
 
 🧩 Process Workflow
 
